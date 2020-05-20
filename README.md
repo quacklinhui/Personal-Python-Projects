@@ -8,5 +8,6 @@ Project 1: To Do List Assignment for AB0403 19S2 Assignment
     Additional things for it to work: .txt file
     
 Project 2: Automation for Adminstrative Tasks for Part Time Job
-Code: 
-Additional things for it to work: .txt file
+Code: AdminAutomation.py
+Functions: Changes the format of the information given to the required format
+Additional things for it to work: .txt file and information of a particular format
